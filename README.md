@@ -1,2 +1,2 @@
 # thompsonsampling
-A project testing thompson sampling with the multi-armed bandit problem.
+A regret analysis of thompson sampling with different probability distributions compared with other common methods used in the multi-armed bandit problem.
